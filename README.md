@@ -1,5 +1,5 @@
 # LX_K
-# Laucnh X Katas :simle:
+# Launch X Katas :simle:
 
 You can check my exercise from Launch X Mission made in Jupyter Notebook
 
